@@ -1,0 +1,100 @@
+AddSimpleModel(-1,18865, -5400, "Weapons/ak47.dff", "Weapons/ak47.txd");
+AddSimpleModel(-1,18865, -5401, "Weapons/Rifle.dff", "Weapons/Rifle.txd");
+AddSimpleModel(-1,18865, -5402, "Weapons/micro_uzi.dff", "Weapons/micro_uzi.txd");
+AddSimpleModel(-1,18865, -3000, "Weapons/m4.dff", "Weapons/m4.txd");
+AddSimpleModel(-1,18865, -3011, "Weapons/chromegun.dff", "Weapons/chromegun.txd");
+AddSimpleModel(-1,18865, -2050, "Weapons/schromegun.dff", "Weapons/schromegun.txd");
+AddSimpleModel(-1,18865, -3012, "Weapons/mp5_2.dff", "Weapons/mp5_2.txd");
+AddSimpleModel(-1,18865, -3013, "Weapons/shotgspa.dff", "Weapons/shotgspa.txd");
+AddSimpleModel(-1,18865, -3014, "Weapons/m4_1.dff", "Weapons/m4_1.txd");
+AddSimpleModel(-1,18865, -3016, "Weapons/desert_eagle3.dff", "Weapons/desert_eagle3.txd");
+AddSimpleModel(-1,18865, -3017, "Weapons/MP5_Legend.dff", "Weapons/MP5_Legend.txd");
+AddSimpleModel(-1,18865, -3018, "Weapons/M4_Legend.dff", "Weapons/M4_Legend.txd");
+AddSimpleModel(-1,18865, -3019, "Weapons/mp5vqmm.dff", "Weapons/mp5vqmm.txd");
+AddSimpleModel(-1,18865, -3020, "Weapons/m4vqmm.dff", "Weapons/m4vqmm.txd");
+AddSimpleModel(-1,18865, -3021, "Weapons/shotgspacauvong.dff", "Weapons/shotgspacauvong.txd");
+AddSimpleModel(-1,18865, -3022, "Weapons/desert_eaglepXMax.dff", "Weapons/desert_eagleXMax.txd");
+AddSimpleModel(-1,18865, -3023, "Weapons/tec9.dff", "Weapons/tec9.txd");
+AddSimpleModel(-1,18865, -3024, "Weapons/colt45.dff", "Weapons/colt45.txd");
+AddSimpleModel(-1,18865, -3025, "Weapons/silenced.dff", "Weapons/silenced.txd");
+AddSimpleModel(-1,18865, -3026, "Weapons/oneshotkillerobject.dff", "Weapons/oneshotkillerobject.txd");
+//________________________________________________________________________________________________
+AddCharModel(0, 20001, "IShowSpeed.dff", "IShowSpeed.txd");
+//________________________________________________________________________________________________
+//________________________________________________________________________________________________
+//________________________________________________________________________________________________
+//________________________________________________________________________________________________
+//________________________________________________________________________________________________
+AddSimpleModel(-1,19379, -4000, "airdrop.dff", "airdrop.txd");
+//________________________________________________________________________________________________
+AddSimpleModel(-1,18865, -4001, "Vehicle/customhuntley-1.dff", "Vehicle/customhuntley-1.txd");
+AddSimpleModel(-1,18865, -4003, "Vehicle/customhuntley.dff", "Vehicle/CustomHuntleyPurple.txd");
+AddSimpleModel(-1,18865, -4004, "Vehicle/customhuntley.dff", "Vehicle/CustomHuntleyMonster.txd");
+AddSimpleModel(-1,18865, -4005, "Vehicle/customhuntley.dff", "Vehicle/CustomHuntleyHell.txd");
+AddSimpleModel(-1,18865, -4010, "Vehicle/customhuntley.dff", "Vehicle/HuntlyV2.txd");
+AddSimpleModel(-1,18865, -4011, "Vehicle/customhuntley.dff", "Vehicle/Huntly2V2.txd");
+AddSimpleModel(-1,18865, -4012, "Vehicle/customhuntley.dff", "Vehicle/Huntly22V2.txd");
+AddSimpleModel(-1,18865, -4013, "Vehicle/customhuntley.dff", "Vehicle/huntleyVNS.txd");
+AddSimpleModel(-1,18865, -4016, "Vehicle/customhuntley.dff", "Vehicle/huntleyVNS2.txd");
+AddSimpleModel(-1,18865, -4023, "Vehicle/v3.dff", "Vehicle/v033.txd");
+AddSimpleModel(-1,18865, -4024, "Vehicle/v3.dff", "Vehicle/Quang.txd");
+AddSimpleModel(-1,18865, -4025, "Vehicle/v3.dff", "Vehicle/Quang0.txd");
+AddSimpleModel(-1,18865, -4026, "Vehicle/v3.dff", "Vehicle/Quang1.txd");
+AddSimpleModel(-1,18865, -4027, "Vehicle/v3.dff", "Vehicle/Quang2.txd");
+AddSimpleModel(-1,18865, -4028, "Vehicle/v3.dff", "Vehicle/Quang3.txd");
+AddSimpleModel(-1,18865, -4029, "Vehicle/cang.dff", "Vehicle/cang.txd");
+AddSimpleModel(-1,18865, -4030, "Vehicle/v3.dff", "Vehicle/Vns1.txd");
+AddSimpleModel(-1,18865, -4031, "Vehicle/v3.dff", "Vehicle/Vns2.txd");
+AddSimpleModel(-1,18865, -4032, "Vehicle/v3.dff", "Vehicle/Vns3.txd");
+AddSimpleModel(-1,18865, -4033, "Vehicle/v3.dff", "Vehicle/Vns4.txd");
+AddSimpleModel(-1,18865, -4034, "Vehicle/v3.dff", "Vehicle/Vns5.txd");
+AddSimpleModel(-1,18865, -4035, "Vehicle/v3.dff", "Vehicle/Vns6.txd");
+AddSimpleModel(-1,18865, -4036, "Vehicle/v3.dff", "Vehicle/Vns7.txd");
+AddSimpleModel(-1,18865, -4047, "Vehicle/v3.dff", "Vehicle/Vns9.txd");
+AddSimpleModel(-1,18865, -4048, "Vehicle/v3.dff", "Vehicle/Vns10.txd");
+AddSimpleModel(-1,18865, -4049, "Vehicle/v3.dff", "Vehicle/Vns11.txd");
+AddSimpleModel(-1,18865, -4050, "Vehicle/v3.dff", "Vehicle/Vns12.txd");
+AddSimpleModel(-1,18865, -4051, "Vehicle/v3.dff", "Vehicle/Vns13.txd");
+AddSimpleModel(-1,18865, -4052, "Vehicle/v3.dff", "Vehicle/Vns14.txd");
+AddSimpleModel(-1,18865, -4053, "Vehicle/v3.dff", "Vehicle/Vns15.txd");
+AddSimpleModel(-1,18865, -4054, "Vehicle/v3.dff", "Vehicle/Vns16.txd");
+AddSimpleModel(-1,18865, -4055, "Vehicle/v3.dff", "Vehicle/Vns17.txd");
+AddSimpleModel(-1,18865, -4056, "Vehicle/v3.dff", "Vehicle/Vns18.txd");
+AddSimpleModel(-1,18865, -4059, "Vehicle/v3.dff", "Vehicle/Vns19.txd");
+AddSimpleModel(-1,18865, -4060, "Vehicle/v3.dff", "Vehicle/Vns20.txd");
+AddSimpleModel(-1,18865, -4014, "Vehicle/Sultan.dff", "Vehicle/Sultan.txd");
+AddSimpleModel(-1,18865, -4018, "Vehicle/Sultan.dff", "Vehicle/sultan1.txd");
+AddSimpleModel(-1,18865, -4017, "Vehicle/Sultan.dff", "Vehicle/sultan2.txd");
+AddSimpleModel(-1,18865, -4037, "Vehicle/Sultan.dff", "Vehicle/Sultan3.txd");
+AddSimpleModel(-1,18865, -4038, "Vehicle/Sultan.dff", "Vehicle/Sultan4.txd");
+AddSimpleModel(-1,18865, -4039, "Vehicle/Sultan.dff", "Vehicle/Sultan5.txd");
+AddSimpleModel(-1,18865, -4040, "Vehicle/Sultan.dff", "Vehicle/Sultan6.txd");
+AddSimpleModel(-1,18865, -4041, "Vehicle/Sultan.dff", "Vehicle/Sultan7.txd");
+AddSimpleModel(-1,18865, -4042, "Vehicle/Sultan.dff", "Vehicle/Sultan8.txd");
+AddSimpleModel(-1,18865, -4043, "Vehicle/Sultan.dff", "Vehicle/Sultan9.txd");
+AddSimpleModel(-1,18865, -4044, "Vehicle/Sultan.dff", "Vehicle/Sultan10.txd");
+AddSimpleModel(-1,18865, -4045, "Vehicle/Sultan.dff", "Vehicle/Sultan11.txd");
+AddSimpleModel(-1,18865, -4057, "Vehicle/Sultan.dff", "Vehicle/Sultan12.txd");
+AddSimpleModel(-1,18865, -4058, "Vehicle/Sultan.dff", "Vehicle/Sultan13.txd");
+AddSimpleModel(-1,18865, -5013, "Vehicle/bmw.dff", "Vehicle/bmw.txd");
+AddSimpleModel(-1,18865, -5014, "Vehicle/bmw.dff", "Vehicle/bmw1.txd");
+AddSimpleModel(-1,18865, -5015, "Vehicle/h2r.dff", "Vehicle/h2r.txd");
+AddSimpleModel(-1,18865, -5016, "Vehicle/ndP.dff", "Vehicle/ndP.txd");
+//________________________________________________________________________________________________
+AddSimpleModel(-1,1609, -4006, "Fish/Fish.dff", "Fish/Fish.txd");
+AddSimpleModel(-1,1608, -4007, "Fish/Alligator.dff", "Fish/Alligator.txd");
+AddSimpleModel(-1,1608, -4008, "Fish/turtle.dff", "Fish/turtle.txd");
+AddSimpleModel(-1,1608, -4009, "Fish/Humpback.dff", "Fish/Humpback.txd");
+AddSimpleModel(-1,1608, -4015, "Fish/Megalodon.dff", "Fish/Megalodon.txd");
+AddSimpleModel(-1,1608, -4019, "Fish/Mosasaurus.dff", "Fish/Mosasaurus.txd");
+AddSimpleModel(-1,1608, -4020, "Fish/shark.dff", "Fish/shark.txd");
+AddSimpleModel(-1,1608, -4021, "Fish/lizzie.dff", "Fish/lizzie.txd");
+
+//________________________________________________________________________________________________
+AddSimpleModel(-1, 19377, -3042, "object.dff", "Wallpaper/InvCharacter.txd");
+AddSimpleModel(-1, 19377, -3043, "object.dff", "Wallpaper/DailyRewards.txd");
+AddSimpleModel(-1, 19377, -3044, "object.dff", "Wallpaper/GM-TaiXiu.txd");
+AddSimpleModel(-1, 19377, -3046, "object.dff", "Login.txd");
+//________________________________________________________________________________________________
+AddSimpleModel(-1,19379, -5000, "congvien.dff", "congvien.txd");
+
